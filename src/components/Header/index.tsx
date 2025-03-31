@@ -24,7 +24,7 @@ const Header = () => {
                             <img 
                                 src="/image-mockups.png" 
                                 alt="image" 
-                                className="relative z-50 w-full h-auto max-w-[760px] translate-x-10 translate-y-20"
+                                className="relative z-50 w-full h-auto max-w-[800px] translate-x-10 translate-y-20"
                             />
                         </div>
                     </div>
